@@ -1,0 +1,22 @@
+.container {
+  width: 250px;
+  height: 350px;
+  background-color: darkslategrey;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 4px 4px 2px rgba(136, 136, 0.425);
+}
+.image {
+  width: 100%;
+}
+.image-title {
+  padding: 12px;
+  color: white;
+}
+i {
+  float: right;
+}
+.image-data {
+  padding: 12px;
+  color: white;
+}
